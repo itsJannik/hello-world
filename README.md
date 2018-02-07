@@ -1,2 +1,3 @@
 # hello-world
-hello-world is a repository
+hello-world is a cool repository
+:-)
